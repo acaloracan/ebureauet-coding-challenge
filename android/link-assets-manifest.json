@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Overpass-Black.ttf",
+      "sha1": "7854656c89c99f95248a58211b5a544653680058"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-Bold.ttf",
+      "sha1": "319736e640b17dce86ac13162ee31ecdaf2e8cec"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-ExtraBold.ttf",
+      "sha1": "73219c89296747cb2e16ad460b1de3a1f5e52db8"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-ExtraLight.ttf",
+      "sha1": "a77056d40e1755c366cb70aab9fbb304ecd96cdc"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-Light.ttf",
+      "sha1": "05fddfb2010a4207863df5e770669ceddd6abd39"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-Medium.ttf",
+      "sha1": "b22275be771d76a354f3e626540f5e6974e0783e"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-Regular.ttf",
+      "sha1": "b1dc48d767267524345f3c8c136589cc2fe6355f"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-SemiBold.ttf",
+      "sha1": "a6387c48feee827e766723729edc4d68b625d929"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-Thin.ttf",
+      "sha1": "4e58ced3de17fa1e3d8d2e830362c579f3be75bd"
+    }
+  ]
+}
